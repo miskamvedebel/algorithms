@@ -1,5 +1,6 @@
 def water_bottles_queue(numBottles: int, numExchange: int) -> int:
-    
+    '''NOT OPTIMAL SOLUTION
+    '''
     bottles = [1] * numBottles
     empty = 0
     total = 0
