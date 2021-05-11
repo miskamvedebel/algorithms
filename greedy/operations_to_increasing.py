@@ -2,6 +2,7 @@
 1827. Minimum Operations to Make the Array Increasing
 [1, 1, 1] -> 3
 [1, 1, 2], [1, 2, 2], [1, 2, 3]
+
 '''
 
 def min_operations(nums: list) -> int:
